@@ -1,7 +1,9 @@
 Summary
+
 Automated the manual defect inspection process for casting manufacturing products by using Keras CNNs in Python to analyze and classify top-view grayscale pump images, achieving 95% accuracy and potentially preventing order rejections
 
 Context
+
 This dataset is of casting manufacturing product.
 Casting is a manufacturing process in which a liquid material is usually poured into a mold, which contains a hollow cavity of the desired shape, and then allowed to solidify.
 Reason for collect this data is casting defects!!
