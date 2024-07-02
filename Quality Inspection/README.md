@@ -11,8 +11,8 @@ Defects are unwanted thing in casting industry.For removing this defective produ
 
 We decided to make inspection process automatic and for this we need to make deep learning classification model for this problem.
 There are main two categories:-
-1) Defective
-2)Ok
+1. Defective
+2. Ok
 
 These all photos are top view of submersible pump impeller(google search for better understanding).
 The dataset contains total 7348 image data.These all are size of (300*300) pixels gray scaled images.
