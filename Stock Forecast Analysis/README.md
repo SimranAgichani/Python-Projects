@@ -1,0 +1,1 @@
+Publicly traded company (NESTLE) daily stock prices analysis using Yahoo Finance. Used the closing prices of the past nine days to predict the 10-day closing stock price. Also the OHLC analysis (Use RNN, LTSM, Gru, and Conv1D techniques to predict the 10th-day closing price) Discussed the performance of each of the models and which one seems to perform the best.
